@@ -1,0 +1,442 @@
+#sectiona{
+  background-image: url(./laptop-bags-top-4.jpeg);
+background-size: cover;
+height: 75svh;
+
+color: white;
+font-size: 24px;
+
+}
+
+
+
+
+.main-div{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.navbar ul ,li ,a{
+display: flex;
+gap: 50px;
+text-decoration: none;
+color: white;    
+}
+
+
+.para{
+  text-align: center;
+}
+.btn{
+  text-align: center;
+ 
+ 
+}
+.btn1{
+  background-color: rgb(64, 22, 216);
+  padding: 15px 10px;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  border: 2px solid black;
+  
+}
+
+.btn1:hover{
+  background-color: rgb(27, 186, 214);
+} 
+ 
+.btn2{
+ background-color: transparent;
+  padding: 15px 10px;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  border: 2px solid black;
+}
+
+#sectionb {
+  display: flex;
+ color: rgb(7, 138, 220);
+ padding: 12%  4%;
+ /* background-color: aqua; */
+ gap: 50px;
+ font-size: 19px;
+}
+#sectionb a{
+  color: rgb(7, 138, 220);
+}
+#sectionb p{
+  color: #73767c;
+}
+
+
+#sectionb a:hover{
+  color: rgb(218, 7, 28);
+}
+
+#sectionc{
+  background-color: rgb(207, 233, 243) ;
+ 
+}
+
+.Features{
+ text-align: center;
+ padding: 8% 29%;
+ font-size: 20px;
+
+}
+.Features p{
+  color: #73767c;
+}
+
+
+
+.benefit img{
+ width: 100%;
+}
+
+#main2{
+display: flex;
+font-size: 20px;
+}
+.text1{
+  padding: 0% 10%;
+}
+.text1 p{
+  color: #73767c;
+ 
+
+}
+
+#main3{
+  padding: 5% 0%;
+  display: flex;
+  gap: 10%;
+  font-size: 20px;
+  padding-left: 5%;
+}
+#main3 img{
+  width: 100%;
+}
+#main3 p{
+  color: #73767c;
+ 
+}
+
+#main4{
+  padding: 6% 0%;
+  display: flex;
+  gap: 10%;
+  font-size: 20px;
+  padding-right: 5%;
+}
+
+#main4 img{
+  width: 100%;
+}
+
+#main4 p{
+  color: #73767c;
+ 
+}
+
+#sectiond{
+  background-color: white;
+  
+}
+
+.Features2{
+  padding: 8% 29%;
+  text-align: center;
+  font-size: 20px;
+}
+#sectiond p{
+  color: #73767c;
+  
+}
+
+#main5{
+  /* background-color: aqua; */
+  padding: 9% 3%;
+  display: flex;
+  justify-content: space-around;
+
+
+}
+
+.card1{
+  border: 1px solid black;
+  text-align: center;
+  padding: 3% 2%;
+ 
+}
+
+.card1 button{
+  padding: 10px ;
+  background-color: rgb(23, 18, 18);
+  color: white;
+  font-size: 15px;
+  text-align: center;
+  width: 150px;
+  cursor: pointer;
+}
+.card1 button:hover{
+ background-color: rgb(11, 159, 68);
+}
+.card2{
+  border: 1px solid black;
+  text-align: center;
+  padding: 3% 2%;
+}
+
+.card2 button{
+  padding: 10px ;
+  background-color: rgb(7, 138, 220);
+  color: white;
+  font-size: 15px;
+  text-align: center;
+  width: 150px;
+  cursor: pointer;
+}
+.card2 button:hover{
+  background-color: rgb(11, 159, 68);
+}
+
+.card3{
+  border: 1px solid black;
+  text-align: center;
+  padding: 3% 2%;
+
+}
+
+.card3 button{
+  padding: 10px ;
+  background-color: rgb(23, 18, 18);
+  color: white;
+  font-size: 15px;
+  text-align: center;
+  width: 150px;
+  cursor: pointer;
+}
+.card3 button:hover{
+  background-color: rgb(11, 159, 68);
+}
+
+#secttionf{
+  background-color: rgb(207, 233, 243);
+  /* height: 80vh; */
+}
+.aa{
+  text-align: center;
+  padding: 6% 29%;
+  
+}
+.aa p{
+  color: #73767c;
+}
+#main6{
+ display: flex;
+ gap: 5% ;
+ padding: 4% 2%;
+ font-size: 20px;
+
+ 
+
+}
+.carda img{
+  width: 100px;
+  height: 100px;
+  border-radius:50px;
+
+
+}
+.cardb img{
+  width: 100px;
+  height: 100px;
+  border-radius:50px;
+
+}
+.cardc img{
+  width: 100px;
+  height: 100px;
+  border-radius:50px;
+
+}
+
+
+.carda{
+  
+background-color: white;
+border: 1px solid black;
+margin: 0% 5%;
+padding: 2% 2%;
+
+
+
+
+
+}
+.cardb{
+  
+  background-color: white;
+  border: 1px solid black;
+  padding: 2% 2%;
+  margin: 0% 5%;
+
+  
+  }
+  .cardc{
+  
+    background-color: white;
+    border: 1px solid black;
+    padding: 2% 2%;
+    margin: 0% 5%;
+  
+    }
+
+
+.star{
+  display: flex;
+  gap: 4px;
+}
+
+#sectiong{
+ background-color: white;
+ padding: 7%;
+ 
+}
+
+.de{
+  text-align: center;
+  padding: 0% 29%;
+}
+
+.de button{
+  padding: 12px;
+  border: 1px solid black;
+  background: rgb(15, 171, 223);
+  color: white;
+  width: 140px;
+  font-size: 15px;
+  cursor: pointer;
+}
+.de button:hover{
+  background-color: rgb(16, 192, 72);
+}
+
+
+
+.laptop img{
+  margin: 0 20%;
+  padding: 6% 0%;
+
+}
+
+.div1{
+ display: flex;
+ gap: 4%;
+ padding: 4% 4%;
+ font-size: 17px;
+}
+
+.div2{
+  display: flex;
+   gap: 4%;
+  padding:0% 4%;
+  font-size: 17px;
+ }
+
+ #sectionh{
+ 
+  background-color: rgb(0, 87, 217);
+
+ }
+
+ .apple{
+  color: white;
+  text-align: center;
+  padding: 5% 28%;
+  font-size: 17px;
+ }
+ .apple button{
+  border: 1px solid white;
+  color: white;
+  background: black;
+  padding: 15px;
+  width: 140px;
+  cursor: pointer;
+  font-size: 17px;
+  margin-top: 15px;
+ }
+
+ .apple button:hover{
+  background-color: rgb(29, 178, 131);
+
+ }
+ 
+ #sections{
+  background-color: rgb(207, 233, 243);
+  /* height: 70vh; */
+  padding: 10% 4%;
+
+ }
+
+ .fram{
+  background-color: white;
+  padding: 3% 5%;
+  width: 45%;
+ }
+ .fram input,textarea{
+  padding: 25px;
+  width: 65%;
+ }
+
+ .fram button{
+  border: 1px solid rgb(10, 10, 10);
+  color: white;
+  background-color: blue;
+  padding: 14px;
+  width: 180px;
+  cursor: pointer;
+  font-size: 17px;
+  margin-top: 10px;
+ }
+
+ .fram button:hover{
+  background-color: rgb(29, 178, 131);
+
+ }
+
+ .div3{
+  display: flex;
+   gap: 12%;
+ }
+
+ #sectionm{
+  background-color: rgb(0, 87, 217);
+  padding: 2%;
+
+ }
+
+.farm3{
+
+  text-align: center;
+    padding: 4% 30%;
+    font-size: 20px;
+}
+
+.farm3 i:hover{
+   background-color: transparent;
+   color: white;
+  
+}
+
+.farm3 p{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+
+
+  
+}
